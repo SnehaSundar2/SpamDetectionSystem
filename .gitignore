@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+spamdetect.log
+models/
+reports/
+predictions/
+.pytest_cache/
